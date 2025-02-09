@@ -2,7 +2,7 @@
 
 **Technical Skills**
 
-Programming Languages: Java, Python, SQL, HTML5, CSS
+Programming Languages: Java, Python, SQL, HTML5, CSS \n
 Technologies & Tools: Blockchain, API Integration, Database Management
 
 **Projects**
